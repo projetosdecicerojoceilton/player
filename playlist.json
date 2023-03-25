@@ -1,0 +1,26 @@
+{
+
+        "title": "Música 1",
+
+        "src":"musicas/musica1.mp3"
+
+    },
+
+    {
+
+        "title": "Música 2",
+
+        "src": "musicas/musica2.mp3"
+
+    },
+
+    {
+
+        "title": "Música 3",
+
+        "src": "musicas/musica3.mp3"
+
+    }
+
+];
+
