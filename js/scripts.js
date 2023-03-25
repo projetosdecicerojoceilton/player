@@ -1,6 +1,6 @@
 // Carrega o arquivo JSON
 
-fetch('playlist.json')
+fetch('./musicas/playlist.json')
 
   .then(response => response.json())
 
