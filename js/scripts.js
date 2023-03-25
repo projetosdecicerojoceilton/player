@@ -7,3 +7,12 @@ function loadPlaylist() {
     }
 }
 loadPlaylist()
+
+
+function playSong(index) {
+    var audio = document.getElementById("audio");
+    audio.src = playlist[index].src;
+    audio.play();
+}
+
+playSong(0)
